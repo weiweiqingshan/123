@@ -436,4 +436,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227946/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227984/index.m3u8
 #EXTINF:-1 group-title="广播Radio" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏故事广播FM104.9.png",江苏故事广播FM104.9
 http://ott.mobaibox.com/PLTV/3/224/3221227990/index.m3u8
-
+#EXTINF:-1,tvg-id="盐城1" tvg-name="盐城1" tvg-logo="https://epg.112114.xyz/logo/盐城1.png" group-title="盐城",盐城1
+http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
+#EXTINF:-1,tvg-id="盐城2" tvg-name="盐城2" tvg-logo="https://epg.112114.xyz/logo/盐城2.png" group-title="盐城",盐城2
+http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
+#EXTINF:-1,tvg-id="盐城3" tvg-name="盐城3" tvg-logo="https://epg.112114.xyz/logo/盐城3.png" group-title="盐城",盐城3
+http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
